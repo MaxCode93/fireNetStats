@@ -1,7 +1,6 @@
 # FireNetStats 🔥📊  
 **Monitor de Red en Tiempo Real para Android**  
 
-![Banner](https://via.placeholder.com/800x200?text=FireNetStats+Banner)  
 
 ## 📱 Descripción  
 FireNetStats es una aplicación Android moderna y elegante que te permite monitorear las estadísticas de tu red en tiempo real. Con un widget flotante personalizable y una interfaz intuitiva, mantente siempre informado sobre tu velocidad de descarga, carga y el estado de tu conexión.  
