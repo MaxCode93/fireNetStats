@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">FireNetStats</string>		
+	<string name="app_subtitle">Monitor de Red</string>
+    <string name="about_app">Acerca de</string>
+    
+    <!-- Main Activity -->
+    <string name="current_network">Red Actual</string>
+    <string name="download_speed">Velocidad de Descarga</string>
+    <string name="upload_speed">Velocidad de Carga</string>
+    <string name="network_type">Tipo de Red</string>
+    <string name="wifi_name">Nombre</string>
+    <string name="signal_strength">Intensidad de Señal</string>
+    <string name="data_usage">Uso de Datos</string>
+    <string name="enable_floating_widget">Activar Widget Flotante</string>
+    <string name="disable_floating_widget">Desactivar Widget Flotante</string>
+    
+    <!-- Widget Settings -->
+    <string name="widget_settings">Configuración del Widget</string>
+	<string name="widget_background_color">Color de fondo</string>
+	<string name="color_default">Predeterminado</string>
+	<string name="color_dark">Oscuro</string>
+	<string name="color_light">Claro</string>
+	<string name="color_transparent">Transparente</string>
+	<string name="color_custom">Personalizado</string>
+    <string name="widget_size">Tamaño</string>
+    <string name="small">Pequeño</string>
+    <string name="medium">Mediano</string>
+    <string name="large">Grande</string>
+    <string name="widget_transparency">Transparencia</string>
+    <string name="display_info">Información a Mostrar</string>
+    <string name="download_only">Descarga</string>
+    <string name="upload_only">Carga</string>
+    <string name="both">Ambas</string>
+    <string name="theme">Tema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+	<string name="reset_settings">Restablecer</string>
+	<string name="reset_confirmation">¿Estás seguro de que deseas restablecer todos los ajustes a sus valores predeterminados?</string>
+	<string name="yes">Sí</string>
+	<string name="no">No</string>
+	
+    <!-- Notifications -->
+    <string name="service_notification_title">FireNetStats Activo</string>
+    <string name="service_notification_text">Monitoreando estadísticas de red</string>
+    
+    <!-- Errors and Messages -->
+    <string name="permission_required">Permiso Requerido</string>
+    <string name="overlay_permission_message">Esta aplicación necesita permiso para dibujar sobre otras apps</string>
+    <string name="go_to_settings">Ir a Configuración</string>
+    <string name="not_connected">No Conectado</string>
+</resources>
