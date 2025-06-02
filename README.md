@@ -40,7 +40,7 @@ FireNetStats es una aplicación Android moderna y elegante que te permite monito
 
 | Vista Principal | Widget Flotante | Configuración |
 |----------------|----------------|----------------|
-| ![Main](https://via.placeholder.com/200x400?text=Main+Screen) | ![Widget](https://via.placeholder.com/200x400?text=Floating+Widget) | ![Settings](https://via.placeholder.com/200x400?text=Settings) |
+| ![Main](screenshots/main.png) | ![Widget](https://via.placeholder.com/200x400?text=Floating+Widget) | ![Settings](https://via.placeholder.com/200x400?text=Settings) |
 
 ---
 
